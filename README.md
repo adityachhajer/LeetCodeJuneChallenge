@@ -6,6 +6,7 @@ Code available in : Python (I'll try to write in more languages. Open for contri
 <h1>Week-1</h1>
 
 1. Invert Binary Tree.<p>
+2. Delete Node in a Linked List.<p>
   
   
   
