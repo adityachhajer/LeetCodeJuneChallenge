@@ -10,6 +10,7 @@ Code available in : Python (I'll try to write in more languages. Open for contri
 3. Two Scheduling City. <p>
 4. Reverse String. <p>
 5. Random Pick with Weight. <p>
+6. Queue Reconstruction by Height. <p>
   
   
   
