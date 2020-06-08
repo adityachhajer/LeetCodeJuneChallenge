@@ -11,6 +11,7 @@ Code available in : Python (I'll try to write in more languages. Open for contri
 4. Reverse String. <p>
 5. Random Pick with Weight. <p>
 6. Queue Reconstruction by Height. <p>
+7. Coin Change 2. <p>
   
   
   
