@@ -13,6 +13,10 @@ Code available in : Python (I'll try to write in more languages. Open for contri
 6. Queue Reconstruction by Height. <p>
 7. Coin Change 2. <p>
   
+<h1>Week-2</h1>
+  
+1. Power of Two.<p>
+  
   
   
 <h2>Contributing</h2>
