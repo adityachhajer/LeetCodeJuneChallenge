@@ -16,7 +16,8 @@ Code available in : Python (I'll try to write in more languages. Open for contri
 <h1>Week-2</h1>
   
 1. Power of Two.<p>
-  
+2. Is Subsequence. <p>
+                    
   
   
 <h2>Contributing</h2>
