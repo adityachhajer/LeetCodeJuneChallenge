@@ -9,7 +9,7 @@ Code available in : Python (I'll try to write in more languages. Open for contri
 2. Delete Node in a Linked List.<p>
 3. Two Scheduling City. <p>
 4. Reverse String. <p>
-5. Random Pick with Weight. <p>
+5. Random Pick with Weight. ,<p>
 6. Queue Reconstruction by Height. <p>
 7. Coin Change 2. <p>
   
@@ -19,6 +19,7 @@ Code available in : Python (I'll try to write in more languages. Open for contri
 2. Is Subsequence. <p>
 3. Search Insert Position. <p>
 4. Sort Colors. <p>
+5. Insert Delete Get Random O(1).<p>
                     
   
   
