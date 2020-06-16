@@ -22,7 +22,10 @@ Code available in : Python (I'll try to write in more languages. Open for contri
 5. Insert Delete Get Random O(1).<p>
 6. Largest Divisible Subset. <p>
 7. Cheapest Flights Within K Stops. <p>
-                    
+  
+<h1>Week-3</h1>
+
+1. Search in a Binary Search Tree. <p>
   
   
 <h2>Contributing</h2>
