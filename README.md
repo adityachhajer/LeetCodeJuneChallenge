@@ -26,6 +26,7 @@ Code available in : Python (I'll try to write in more languages. Open for contri
 <h1>Week-3</h1>
 
 1. Search in a Binary Search Tree. <p>
+2. Validate IP Address. <p>
   
   
 <h2>Contributing</h2>
