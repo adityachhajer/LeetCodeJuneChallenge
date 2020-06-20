@@ -29,6 +29,7 @@ Code available in : Python (I'll try to write in more languages. Open for contri
 2. Validate IP Address. <p>
 3. Surrounded Regions. <p>
 4. H Index-I. <p>
+5. Longest Duplicate Substring. <p>
   
   
 <h2>Contributing</h2>
