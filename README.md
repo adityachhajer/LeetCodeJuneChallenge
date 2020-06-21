@@ -30,6 +30,7 @@ Code available in : Python (I'll try to write in more languages. Open for contri
 3. Surrounded Regions. <p>
 4. H Index-I. <p>
 5. Longest Duplicate Substring. <p>
+6. Permutation Sequence. <p>
   
   
 <h2>Contributing</h2>
