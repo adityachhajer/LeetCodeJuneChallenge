@@ -33,6 +33,10 @@ Code available in : Python (I'll try to write in more languages. Open for contri
 6. Permutation Sequence. <p>
 7. Dungeon Game. <p>
   
+<h1>Week-4</h1>
+
+1. Single Number II.<p>
+  
 <h2>Contributing</h2>
 
 Open to contributions with interesting and more efficient solutions for the problem in variety of programming languages. Please open an issue, to discuss the changes or adding more solutions to the repo. Thanks. 😃
