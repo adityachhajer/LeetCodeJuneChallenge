@@ -36,6 +36,8 @@ Code available in : Python (I'll try to write in more languages. Open for contri
 <h1>Week-4</h1>
 
 1. Single Number II.<p>
+2. Count Complete Tree Nodes. <p>
+                            
   
 <h2>Contributing</h2>
 
