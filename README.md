@@ -40,6 +40,7 @@ Code available in : Python (I'll try to write in more languages. Open for contri
 3. Unique Binary Search Trees. <p>
 4. Find the Duplicate Number. <p>
 5. Sum Root to Leaf Numbers. <p>
+6. Perfect Squares. <p>
                             
   
 <h2>Contributing</h2>
