@@ -42,6 +42,10 @@ Code available in : Python (I'll try to write in more languages. Open for contri
 5. Sum Root to Leaf Numbers. <p>
 6. Perfect Squares. <p>
 7. Reconstruct Itinerary. <p>
+  
+<h1>Week-5</h1>
+
+1. Unique Paths. <p>
                             
   
 <h2>Contributing</h2>
